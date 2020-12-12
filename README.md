@@ -38,7 +38,7 @@
 <hr>
 
 
-**DevSecOps and Cloud Engineering**. is part of my daily life, I love it. standardizing architecture while ensuring the architecture is security complaint.  
+**DevSecOps and Cloud Engineering** standardizing architecture while ensuring the architecture is security complaint.  
 
 This module consits of [Terraform open source](https://www.terraform.io/) and includes automatation tests and examples. It also helps to create and improve your infrastructure with minimalistic code instead of repeating and maintaining the whole infrastructure code.
 
