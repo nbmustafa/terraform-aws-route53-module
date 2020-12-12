@@ -33,4 +33,4 @@ This module creates DNS records in Route53 zone.
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
 ## Maintained by 
-Nashwan Mustafa ( nashwan.mustafa@nab.com.au )
+Nashwan Mustafa 
