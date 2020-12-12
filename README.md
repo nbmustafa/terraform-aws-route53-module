@@ -87,8 +87,10 @@ This module creates DNS records in Route53 zone.
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
-## Maintained by 
-Nashwan Mustafa
+## ## Authors
+
+Module maintained by [Nashwan Mustafa](https://www.linkedin.com/in/nashwan-mustafa/).
+
 
 ## Examples
 
