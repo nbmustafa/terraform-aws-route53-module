@@ -1,5 +1,5 @@
 
-## Example: 
+## Example creating A record with Alias: 
 module "service_dns_a_record" {
   source = "./modules/"
 
