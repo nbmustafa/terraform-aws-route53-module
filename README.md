@@ -97,7 +97,8 @@ Nashwan Mustafa
 
 ```
 module "service_dns_a_record" {
-  source = "./modules/"
+  source  = "nashvan/route53-module/aws"
+  version = "1.2.0"
 
   hosted_zone = local.account_config["hosted_zone"]
   
@@ -121,7 +122,8 @@ module "service_dns_a_record" {
 
 ```
 module "service_dns" {
-  source = "./modules/"
+  source  = "nashvan/route53-module/aws"
+  version = "1.2.0"
 
   hosted_zone = local.account_config["hosted_zone"]
   
@@ -144,7 +146,8 @@ module "service_dns" {
 
 ```
 module "service_dns_cname" {
-  source = "./modules/"
+  source  = "nashvan/route53-module/aws"
+  version = "1.2.0"
 
   hosted_zone = local.account_config["hosted_zone"]
   
@@ -165,7 +168,8 @@ module "service_dns_cname" {
 
 ```
 module "service_dns_cname" {
-  source = "./modules/"
+  source  = "nashvan/route53-module/aws"
+  version = "1.2.0"
 
   hosted_zone = local.account_config["hosted_zone"]
   
