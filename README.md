@@ -1,5 +1,5 @@
 ## Maintained by 
-Nashwan Mustafa ( nashwan.mustafa@nab.com.au )
+Nashwan Mustafa
 
 ###############################
 ## Examples
