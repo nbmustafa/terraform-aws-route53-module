@@ -1,5 +1,5 @@
 
-## Example: 
+## Example creating A record with IP: 
 module "service_dns" {
   source = "./modules/"
 
