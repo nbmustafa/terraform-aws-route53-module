@@ -1,6 +1,6 @@
 
 variable "hosted_zone" {
-  description = "The hosted zone that will be utilised for route53"
+  description = "The existing hosted zone that will be utilised for route53"
 }
 
 variable "records" {
