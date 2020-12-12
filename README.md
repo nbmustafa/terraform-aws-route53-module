@@ -196,7 +196,7 @@ test.cmcloudlab912.info	CNAME	Simple	-	No	develop.abc.cmcloudlab912.info. 5
 
 Experience in Security, DevOps, Cloud Archetecture, and infrastructure automation.
 
-<p align="center">We are <b> The Cloud Engineer!</b></p>
+<p align="center"> <b> Kurdish by blood and values!</b></p>
 <hr />
 <p align="center">We ❤️  DevSecOps and Cloud Engineering </p>
 
