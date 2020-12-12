@@ -1,7 +1,10 @@
-variable "aws_access_key" {}
-variable "aws_secret_key" {}
 
-variable environment_name {
-  type    = string
-  default = "develop"
+variable "hosted_zone" {
+  description = "The existing hosted zone that will be utilised for route53"
+}
+
+variable "records" {
+  description = "List of maps of DNS records"
+  type        = any
+  default     = []
 }
