@@ -207,4 +207,3 @@ Experience in Security, DevOps, Cloud Archetecture, and infrastructure automatio
 <p align="center">We ❤️  DevSecOps and Cloud Engineering </p>
 
 [linkedin]: https://www.linkedin.com/in/nashwan-mustafa/
-
