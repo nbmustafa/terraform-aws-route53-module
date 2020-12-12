@@ -1,5 +1,5 @@
 
-## Example: 
+## Example creating CNAMe with weighted routing policy enabled: 
 module "service_dns_cname" {
   source = "./modules/"
 
