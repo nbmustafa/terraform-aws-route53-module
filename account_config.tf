@@ -2,7 +2,6 @@ locals {
   aws_account_id               = data.aws_caller_identity.current.account_id
   aws_region                   = data.aws_region.current.name
   app_name                     = "abc"
-  alb_name                     = "services-${var.environment_name}-alb-fe"
   prefix                       = "${local.app_name}-${var.environment_name}"
 
   account_configs = {
