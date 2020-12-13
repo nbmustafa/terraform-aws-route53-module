@@ -40,7 +40,7 @@
 
 **DevSecOps and Cloud Engineering** standardizing architecture while ensuring the architecture is security complaint.  
 
-This module consits of [Terraform open source](https://www.terraform.io/) and includes automatation tests and examples. It also helps to create and improve your infrastructure with minimalistic code instead of repeating and maintaining the whole infrastructure code.
+This module consits of [Terraform open source](https://www.terraform.io/) and includes automation tests and examples. It also helps to create and improve your infrastructure with minimalistic code instead of repeating and maintaining the whole infrastructure code.
 
 
 ## Prerequisites
