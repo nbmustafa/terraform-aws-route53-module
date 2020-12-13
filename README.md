@@ -40,7 +40,7 @@
 
 **DevSecOps and Cloud Engineering** standardizing architecture while ensuring the architecture is security complaint.  
 
-This module consits of [Terraform open source](https://www.terraform.io/) and includes automation tests and examples. It also helps to create and improve your infrastructure with minimalistic code instead of repeating and maintaining the whole infrastructure code.
+This module consist of terraform code to create aws Route53 records [Terraform open source](https://www.terraform.io/) and examples. It also helps to create and improve your infrastructure with minimalistic code instead of repeating and maintaining the whole infrastructure code.
 
 
 ## Prerequisites
@@ -202,7 +202,7 @@ test.cmcloudlab912.info	CNAME	Simple	-	No	develop.abc.cmcloudlab912.info. 5
 
 Experience in Security, DevOps, Cloud Archetecture, and infrastructure automation.
 
-<p align="center"> <b> Kurdish by blood and values!</b></p>
+<p align="center"> <b> Kurdish by blood and values! </b> </p>
 <hr />
 <p align="center">We ❤️  DevSecOps and Cloud Engineering </p>
 
